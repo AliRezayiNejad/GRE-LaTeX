@@ -1,0 +1,91 @@
+\newpage
+\setcounter{section}{weeknum}
+\setcounter{subsection}{0}
+
+
+\subsection{}
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\newpage
+\subsection{}
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\newpage
+\subsection{}
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\newpage
+\subsection{}
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}
+
+\subsubsection{\textcolor{brickred}{} ()}
+
+\textcolor{gold}{ ""}

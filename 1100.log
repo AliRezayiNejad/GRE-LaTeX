@@ -1,0 +1,812 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.10.13)  13 OCT 2021 18:19
+entering extended mode
+**./1100.tex
+(1100.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Users\Ali\AppData\Local\Programs\MiKTeX\tex/latex/base\proc.cls
+Document Class: proc 2020/11/23 v1.3l Standard LaTeX document class
+(C:\Users\Ali\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\Ali\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+))
+(C:\Users\Ali\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks16
+\SOUL@lasttoken=\toks17
+\SOUL@cmds=\toks18
+\SOUL@buffer=\toks19
+\SOUL@token=\toks20
+\SOUL@spaceskip=\skip49
+\SOUL@ttwidth=\dimen139
+\SOUL@uldp=\dimen140
+\SOUL@ulht=\dimen141
+)
+(C:\Users\Ali\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\Ali\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(C:\Users\Ali\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\Ali\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdfte
+x.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count190
+\l__pdf_internal_box=\box50
+) (1100.aux)
+\openout1 = `1100.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+
+(C:\Users\Ali\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count191
+\scratchdimen=\dimen142
+\scratchbox=\box51
+\nofMPsegments=\count192
+\nofMParguments=\count193
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count194
+\MPscratchDim=\dimen143
+\MPnumerator=\count195
+\makeMPintoPDFobject=\count196
+\everyMPtoPDFconversion=\toks22
+)
+Underfull \hbox (badness 10000) in paragraph at lines 143--152
+
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 143--152
+\OT1/cmr/m/n/10 the races con-ducted be-tween the \OT1/cmr/bx/n/10 swiftest \OT
+1/cmr/m/n/10 of
+ []
+
+[1
+
+{C:/Users/Ali/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 226--254
+
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 226--254
+\OT1/cmr/m/n/10 - ab-jure: re-nounce, re-lin-quish, re-ject, dis-pense
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 283.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 283.
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--300
+
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 290--300
+\OT1/cmr/m/n/10 a clan-des-tine \OT1/cmr/bx/n/10 con-fed-er-ate \OT1/cmr/m/n/10
+ (ac-com-plice) of the
+ []
+
+[2]
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 3
+33.
+ (C:\Users\Ali\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/bx/n' in size <10> not available
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 333.
+
+[3]
+Underfull \hbox (badness 3668) in paragraph at lines 416--417
+[][]\OT1/cmr/m/n/10 "two mem-bers dis-sented from the ma-jor-ity"
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 441--446
+\OT1/cmr/m/n/10 in-cum-bent Pres-i-dent was de-feated" "the present
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--446
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 470--474
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 525--531
+
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 543--545
+\OT1/cmr/m/n/10 imitate, mimic, match or sur-pass (a per-son or
+ []
+
+
+Underfull \hbox (badness 4291) in paragraph at lines 551--557
+\OT1/cmr/m/n/10 healthy health-ful ben-e-fi-cial whole-some salu-tary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--557
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--557
+
+ []
+
+[6]
+Underfull \hbox (badness 1616) in paragraph at lines 572--583
+\OT1/cmr/m/n/10 smug, self-satisfied, pleased with one-self, proud
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 608--618
+\OT1/cmr/bx/n/10 con-fide \OT1/cmr/m/n/10 ($\OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 =
+$ con-fine) in Caryl-Sue be-cause she
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--636
+
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 632--636
+\OT1/cmr/m/n/10 confide (v): 1- trust (sb) enough to tell them
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 664--668
+
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 664--668
+\OT1/cmr/m/n/10 sanguine [sang\TS1/cmr/m/n/10 ·\OT1/cmr/m/n/10 gwn] = op-ti-mis
+tic "there was a
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 718--720
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 718--720
+
+ []
+
+
+Underfull \hbox (badness 4229) in paragraph at lines 741--745
+\OT1/cmr/m/n/10 (of a per-son's hair/clothes/appearance) un-tidy;
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 741--745
+\OT1/cmr/m/n/10 dis-or-dered.// -dishevel (v): make (a per-son's
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--745
+
+ []
+
+[9]
+Underfull \hbox (badness 1502) in paragraph at lines 767--770
+\OT1/cmr/m/n/10 the mak-ing of false and defam-a-tory state-ments
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 767--770
+
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 790--797
+\OT1/cmr/m/n/10 (especially of a per-son) hav-ing an un-tidy or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--797
+
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 790--797
+\OT1/cmr/m/n/10 - "And now that seem-ingly male spec-ta-cle is
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 829--835
+\OT1/cmr/m/n/10 people.self-righteous, holier-than-thou, churchy,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--835
+
+ []
+
+[11]
+Underfull \hbox (badness 3849) in paragraph at lines 886--892
+\OT1/cmr/m/n/10 have not been con-vinc-ingly re-futed" "Thurber
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 886--892
+
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 886--892
+\OT1/cmr/m/n/10 - \OT1/cmr/bx/n/10 quench \OT1/cmr/m/n/10 (v): sat-isfy (one's 
+thirst) by drink-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 901--906
+$[]$\OT1/cmr/m/n/10 /$[]$ (some-one's de-
+ []
+
+
+Underfull \hbox (badness 4441) in paragraph at lines 901--906
+\OT1/cmr/m/n/10 sire/interest/appetite). []"here's an ex-tract to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 917--925
+
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 917--925
+\OT1/cmr/m/n/10 "the stars of the orig-i-nal se-ries are \OT1/cmr/bx/n/10 mobbe
+d
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 954--967
+\OT1/cmr/m/n/10 slight/pardonable/forgivable/excusable
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 954--967
+\OT1/cmr/m/n/10 sin/wrongdoing/fault/offense []"we can-not pre-vent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 954--967
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1008--1018
+
+ []
+
+
+Underfull \hbox (badness 4144) in paragraph at lines 1008--1018
+\OT1/cmr/m/n/10 - down-trod-den (adj): $[]$/treated badly
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 1008--1018
+\OT1/cmr/m/n/10 by peo-ple in power. sub-ju-gated, per-se-cuted,
+ []
+
+[13]
+Underfull \hbox (badness 2600) in paragraph at lines 1056--1068
+\OT1/cmr/m/n/10 showing a lack of ex-pe-ri-ence/wisdom/judgment.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1056--1068
+
+ []
+
+
+Underfull \hbox (badness 3514) in paragraph at lines 1056--1068
+\OT1/cmr/m/n/10 - The nov-els, aimed at ex-pos-ing the \OT1/cmr/bx/n/10 sor-did
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1092--1110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1092--1110
+
+ []
+
+[14]
+Underfull \hbox (badness 7186) in paragraph at lines 1163--1169
+\OT1/cmr/m/n/10 also, pleas-ing and for-tu-nate. []"a fe-lic-i-tous
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 1188--1191
+\OT1/cmr/m/n/10 ($\OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 =$ \OT1/cmr/bx/n/10 su-per-
+fi-cial\OT1/cmr/m/n/10 ) un-nec-es-sary, es-pe-cially through
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1188--1191
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 1263--1276
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 1289--1289
+[][]\OT1/cmr/bx/n/10 homogeneous/homogenous[] (adj)
+ []
+
+
+Overfull \hbox (12.85303pt too wide) in paragraph at lines 1289--1289
+\OT1/cmr/bx/n/10 [how\TS1/cmr/bx/n/10 ·\OT1/cmr/bx/n/10 mow\TS1/cmr/bx/n/10 ·\O
+T1/cmr/bx/n/10 jee\TS1/cmr/bx/n/10 ·\OT1/cmr/bx/n/10 nee\TS1/cmr/bx/n/10 ·\OT1/
+cmr/bx/n/10 uhs/huh\TS1/cmr/bx/n/10 ·\OT1/cmr/bx/n/10 maa\TS1/cmr/bx/n/10 ·\OT1
+/cmr/bx/n/10 juh\TS1/cmr/bx/n/10 ·\OT1/cmr/bx/n/10 nuhs] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1331--1334
+\OT1/cmr/m/n/10 2- a par-tic-u-lar $[]$/feature of some-thing.
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 1331--1334
+[]\OT1/cmr/m/n/10 "Through ev-ery facet of pub-lic-ity and ad-ver-tis-
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 1331--1334
+\OT1/cmr/m/n/10 ing the in-dus-try ex-ploits the nat-u-ral de-sire for
+ []
+
+[17]
+Underfull \hbox (badness 1383) in paragraph at lines 1356--1362
+\OT1/cmr/m/n/10 in-dus-try is busy plan-ning how to tan-ta-lize the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1356--1362
+
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 1356--1362
+\OT1/cmr/m/n/10 This \OT1/cmr/bx/n/10 ar-bi-trary \OT1/cmr/m/n/10 de-ci-sion is
+ guar-an-teed to []\OT1/cmr/bx/n/10 fo[]-
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 1377--1382
+\OT1/cmr/m/n/10 (VA p.48) im-plicit un-der-stood im-plied in-ferred.
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 1388--1393
+\OT1/cmr/m/n/10 work-force" "Even the most docile per-son may
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1388--1393
+
+ []
+
+[18]
+Underfull \hbox (badness 4013) in paragraph at lines 1421--1435
+\OT1/cmr/m/n/10 wa-ver \OT1/cmr/bx/n/10 teeter\OT1/cmr/m/n/10 , \OT1/cmr/bx/n/1
+0 tem-po-rize\OT1/cmr/m/n/10 , hes-i-tate, \OT1/cmr/bx/n/10 os-cil-late\OT1/cmr
+/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1435
+
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 1421--1435
+\OT1/cmr/m/n/10 - The British proved once again that they are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1452--1452
+[][]\OT1/cmr/bx/n/10 uncon$[]$i$[]$nable[] (adj)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1458--1461
+
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 1458--1461
+\OT1/cmr/m/n/10 - How-ever, evil is ubiq-ui-tous, and next week
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1472
+\OT1/cmr/m/n/10 ($\OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 =$ dis-po-si-tion/disposal)
+ out-ward be-hav-ior or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1498--1503
+
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 1498--1503
+\OT1/cmr/m/n/10 - the \OT1/cmr/bx/n/10 mutiny \OT1/cmr/m/n/10 that \OT1/cmr/bx/
+n/10 erupted \OT1/cmr/m/n/10 aboard that ship
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1539--1541
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1539--1541
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 1578--1583
+
+ []
+
+
+Underfull \hbox (badness 5288) in paragraph at lines 1578--1583
+\OT1/cmr/m/n/10 - One mo-ment \OT1/cmr/bx/n/10 face-tious\OT1/cmr/m/n/10 , the 
+next mo-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1587--1589
+\OT1/cmr/m/n/10 (Not re-lated to re-cant) in-sin-cere, hyp-o-crit-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1587--1589
+\OT1/cmr/m/n/10 i-cal and sanc-ti-mo-nious talk, typ-i-cally of a
+ []
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 1587--1589
+\OT1/cmr/m/n/10 moral/religious/political na-ture. []"he had no
+ []
+
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1611.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1607--1612
+
+ []
+
+
+Underfull \hbox (badness 3000) in paragraph at lines 1607--1612
+\OT1/cmr/m/n/10 - The tele-vi-sion press in-ter-view is \OT1/cmr/bx/n/10 con-du
+cive
+ []
+
+[21]
+Underfull \hbox (badness 3199) in paragraph at lines 1616--1628
+\OT1/cmr/m/n/10 insipid, zest-less, ster-ile, anaemic [uh\TS1/cmr/m/n/10 ·\OT1/
+cmr/m/n/10 nee\TS1/cmr/m/n/10 ·\OT1/cmr/m/n/10 muhk]
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 1663--1664
+[]\OT1/cmr/m/n/10 "he aug-mented his sum-mer in-come by paint-ing
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 1683--1689
+\OT1/cmr/m/n/10 de-cline to-ward se-nil-ity went un-no-ticed un-til he
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1683--1689
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 1713--1717
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1737--1741
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 1761--1766
+
+ []
+
+
+Underfull \hbox (badness 3250) in paragraph at lines 1761--1766
+\OT1/cmr/m/n/10 - Su-per-mar-kets over-come this en-cum-brance by
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 1813--1818
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 1863--1867
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 1914--1918
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1947--1950
+
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 1947--1950
+\OT1/cmr/m/n/10 aver-sion to the preva-lent be-lief that he should
+ []
+
+[27]
+Underfull \hbox (badness 2318) in paragraph at lines 1954--1961
+\OT1/cmr/m/n/10 boun-ti-ful-ness, benef-i-cence. []"pre-sum-ably pub-lic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1975--1978
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1998--2001
+
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 2026--2029
+
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 2026--2029
+\OT1/cmr/m/n/10 - Dis-as-ters of this type, leav-ing only pa-thetic
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 2033--2035
+\OT1/cmr/m/n/10 a pub-lished false state-ment that is dam-ag-ing
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 2033--2035
+\OT1/cmr/m/n/10 to a per-son's rep-u-ta-tion; a writ-ten $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2052--2056
+
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 2052--2056
+\OT1/cmr/m/n/10 - This would be tan-ta-mount to de-stroy-ing \OT1/cmr/bx/n/10 t
+he
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 2052--2056
+\OT1/cmr/m/n/10 ing the news can the in-di-vid-ual ex-pect to win
+ []
+
+[29]
+Underfull \hbox (badness 1496) in paragraph at lines 2095--2097
+\OT1/cmr/m/n/10 (especially of sound) sweet and sooth-ing (of-ten
+ []
+
+[30]
+Underfull \hbox (badness 1024) in paragraph at lines 2131--2134
+\OT1/cmr/m/n/10 fick-le-ness" "While all dis-grun-tled men may \OT1/cmr/bx/n/10
+ rail
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2131--2134
+
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 2180--2183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2205--2208
+
+ []
+
+[32] [33]
+Underfull \hbox (badness 2443) in paragraph at lines 2276--2282
+\OT1/cmr/m/n/10 2- dis-grace, shame, dis-honor. es-pe-cially that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2276--2282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2302--2305
+
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 2302--2305
+\OT1/cmr/m/n/10 - They did not pro-cras-ti-nate, and a fre-netic
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 2350--2354
+
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 2350--2354
+\OT1/cmr/m/n/10 - On the fol-low-ing day, \OT1/cmr/bx/n/10 there came a spate
+ []
+
+[35]
+Underfull \hbox (badness 1033) in paragraph at lines 2358--2360
+\OT1/cmr/m/n/10 toll, the sound of a bell, es-pe-cially when rung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2362--2364
+\OT1/cmr/m/n/10 gruesome, dis-turb-ing be-cause con-cerned
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 2362--2364
+\OT1/cmr/m/n/10 with/causing a fear of death. []"a macabre se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2366--2368
+\OT1/cmr/m/n/10 a com-plex/unwelcome $[]$ of an ac-
+ []
+
+
+Underfull \hbox (badness 2165) in paragraph at lines 2366--2368
+\OT1/cmr/m/n/10 "Women and chil-dren first," but their lack of
+ []
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 2366--2368
+\OT1/cmr/m/n/10 ram-i-fi-ca-tions" "Heidi was con-cerned about the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2374--2379
+
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 2374--2379
+\OT1/cmr/m/n/10 - Within sec-onds, thou-sands of cu-bic feet of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2399--2403
+
+ []
+
+[36]
+Underfull \hbox (badness 3148) in paragraph at lines 2415--2417
+\OT1/cmr/bx/n/10 trate \OT1/cmr/m/n/10 (as a verb ba-si-cally means ZA-MIN-GIR
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2477
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2496--2501
+
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 2496--2501
+\OT1/cmr/m/n/10 - He saw the sil-hou-ette of a head above the
+ []
+
+[38] (1100.aux) ) 
+Here is how much of TeX's memory you used:
+ 1570 strings out of 478927
+ 22165 string characters out of 2853482
+ 332735 words of memory out of 3000000
+ 19477 multiletter control sequences out of 15000+600000
+ 406294 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 48i,5n,55p,499b,245s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Ali\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\tcrm1000.pk> <C:\Users\Ali\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
+en/ec/dpi600\tcbx1000.pk><C:/Users/Ali/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Ali/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Ali/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Ali/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/Ali/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Ali/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on 1100.pdf (38 pages, 243421 bytes).
+PDF statistics:
+ 168 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
